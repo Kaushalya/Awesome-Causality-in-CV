@@ -24,6 +24,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://arxiv.org/abs/2011.01681) | NeurIPS | `CR`     | [PyTorch(Author)](https://github.com/changliu00/causal-semantic-generative-model) |
 | [Transporting Causal Mechanisms for Unsupervised Domain Adaptation](https://arxiv.org/abs/2107.11055) | ICCV | `O`     | [PyTorch(Author)](https://github.com/yue-zhongqi/tcm)   |
 | [Causal Attention for Unbiased Visual Recognition](https://arxiv.org/abs/2108.08782) | ICCV | `IT`     | [PyTorch(Author)](https://github.com/Wangt-CN/CaaM)   |
 | [Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf) | ICCV | `IT/CR`     | -  |
@@ -84,7 +85,6 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://arxiv.org/abs/2011.01681) | Arxiv | `CR`     | - |
 | [ECINN: Efficient Counterfactuals from Invertible Neural Networks](https://arxiv.org/abs/2103.13701) | Arxiv | `CF`     | - |
 | [A Structural Causal Model for MR Images of Multiple Sclerosis](https://arxiv.org/abs/2103.03158) | Arxiv | `CF`     | - |
 | [Counterfactual Variable Control for Robust and Interpretable Question Answering](https://arxiv.org/abs/2010.05581) | Arxiv | `CF`     | [PyTorch(Author)](https://github.com/PluviophileYU/CVC-QA) |
