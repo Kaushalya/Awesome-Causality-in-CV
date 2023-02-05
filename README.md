@@ -7,6 +7,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 ## Table of Contents
 
 - [Type of Causality in CV](#type-of-causality-in-cv)
+- [2022 Venues](#2022)
 - [2021 Venues](#2021)
 - [2020 Venues](#2020)
 - [Before 2020](#before-2020)
@@ -19,6 +20,11 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:----------- |:--------------:|:--------------:|:-----------:|:-----------:|
 | Explanation | Intervention | Counterfactual | Causal Representation | Other Types |
 
+
+### 2022
+| Title                                                                                                                            | Venue | Type    | Code |
+|:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [A Comprehensive Study of Image Classification Model Sensitivity to Foregrounds, Backgrounds, and Visual Attributes](https://arxiv.org/abs/2201.10766) | CVPR | `CR`     |  -  |
 
 ### 2021
 
